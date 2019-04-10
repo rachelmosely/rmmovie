@@ -1,0 +1,14 @@
+body {
+font-family: sans-serif;
+}
+
+
+title  {
+border: 4px solid cadetblue;
+}
+
+
+.mood {
+    display: flex;
+}
+
